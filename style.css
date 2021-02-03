@@ -1,0 +1,23 @@
+body {
+    background: #eee;
+}
+
+p {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 700;
+    /* font-size: 35px; */
+font-size: 2vw;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    text-align: center;
+    border-bottom: 5px solid #ccc;
+    padding: 10px 0;
+    width: 47.5%;
+    margin: auto;
+}
+
+img {
+    width: 22.5%;
+    margin: 1.25%;
+    float: left;
+}
